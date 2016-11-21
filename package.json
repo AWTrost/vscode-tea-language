@@ -1,0 +1,15 @@
+{
+  "name": "vscode-tea-language",
+  "version": "1.0.0",
+  "description": "Tea Language Syntax Highlighting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/AWTrost/vscode-tea-language.git"
+  },
+  "author": "AWTrost",
+  "license": "ISC"
+}
